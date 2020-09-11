@@ -1,7 +1,6 @@
 package com.school.mangement;
 
 /**
- * Created by Rakshith on 4/3/2017.
  * This class is responsible for keeping the
  * track of students fees, name ,grade & fees
  * paid.
